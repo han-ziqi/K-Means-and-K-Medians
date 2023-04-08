@@ -21,8 +21,8 @@ You can run the results of implement K-Means and K-Medians clustering algorithm 
 
 
 
-![This is a demo for K-means](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Means-2.jpg"K-Means demo")
-![This is a demo for K-medians](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Medians-2.jpg"K-Medians demo")
+![This is a demo for K-means](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Means-2.jpg "K-Means demo")
+![This is a demo for K-medians](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Medians-2.jpg "K-Medians demo")
 
 ### Vary K value, and Normalise each data object (vector) to unit l2 length before clustering
 
