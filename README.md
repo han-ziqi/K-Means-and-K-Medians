@@ -22,7 +22,7 @@ You can run the results of implement K-Means and K-Medians clustering algorithm 
 
 1. First, please comment line 261 and Line 263.
 
-2. Remove block comments from line 264 to line 331
+2. Remove block comments symbol from line 264 to line 331
 
 3. Wait the program, then you will see 4 plots, they They correspond to K-Means and K-Medians about:
 
