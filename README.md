@@ -17,8 +17,8 @@ For best result, you can clone this repository and open in [PyCharm](https://www
 ### Implement K-Means and K-Medians
 
 You can run the results of implement K-Means and K-Medians clustering algorithm as default settings.
-[This is a demo for K-means](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Means.jpg)
-[This is a demo for K-medians](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Medians.PNG)
+![This is a demo for K-means](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Means.jpg)
+![This is a demo for K-medians](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Medians.PNG)
 
 ### Vary K value, and Normalise each data object (vector) to unit l2 length before clustering
 
@@ -31,4 +31,4 @@ You can run the results of implement K-Means and K-Medians clustering algorithm 
    - Vary K value from 1-9, then calculate the B-CUBED precision, recall, and F-score for each set of clusters. Then plot the result.
 
    - Normalise each data object (vector) to unit l2 length before clustering, then re-run the algrithm and plot  B-CUBED precision, recall, and F-score
-[This is a demo for 4 diargams](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/Compare.jpeg)
+![This is a demo for 4 diargams](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/Compare.jpeg)
