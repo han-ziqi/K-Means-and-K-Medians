@@ -257,12 +257,12 @@ def drawingDiagram(kList, PList, RList, FList, titleNumber):
     plt.show()
 
 # ------------------------ Answer Zone -----------------------------------
-# Q1
+# Implement K-Means:
 kMeans(rawData, 4)
-# Q2
+# Implement K-Medians:
 kMedians(rawData, 4)
 '''
-# Q3
+# K-Means: Vary k value from 1 to 9 and plot
 PList = []
 RList = []
 FList = []
@@ -279,7 +279,7 @@ for k in range(1, 11):
     print(FList)
 drawingDiagram(KList, PList, RList, FList, 1)
 
-# Q4
+# K-Means: Normalise data before cluster
 PList = []
 RList = []
 FList = []
@@ -295,7 +295,7 @@ for k in range(1, 11):
     print(RList)
     print(FList)
 drawingDiagram(KList, PList, RList, FList, 2)
-# Q5
+# K-Medians: Vary k value from 1 to 9 and plot
 PList = []
 RList = []
 FList = []
@@ -312,7 +312,7 @@ for k in range(1, 11):
     print(FList)
 drawingDiagram(KList, PList, RList, FList, 3)
 
-# Q6
+# K-Medians: Normalise data before cluster
 PList = []
 RList = []
 FList = []
