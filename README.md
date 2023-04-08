@@ -17,8 +17,12 @@ For best result, you can clone this repository and open in [PyCharm](https://www
 ### Implement K-Means and K-Medians
 
 You can run the results of implement K-Means and K-Medians clustering algorithm as default settings.
-![This is a demo for K-means](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Means-2.jpg)
-![This is a demo for K-medians](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Medians-2.jpg)
+#### You can see this demo for single run
+
+
+
+![This is a demo for K-means](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Means-2.jpg"K-Means demo")
+![This is a demo for K-medians](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Medians-2.jpg"K-Medians demo")
 
 ### Vary K value, and Normalise each data object (vector) to unit l2 length before clustering
 
