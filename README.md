@@ -1,4 +1,4 @@
-## README K-Means and K-Medians
+## K-Means and K-Medians
 
 - This project is a implementation about two **cluster algorithm** [K-Means](https://en.wikipedia.org/wiki/K-means_clustering) and [K-Medians](https://en.wikipedia.org/wiki/K-medians_clustering). 
 
