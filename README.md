@@ -2,8 +2,8 @@
 
 This project was done by myself. In this project, I implemented two popular clustering algorithms, K-Means and K-Medians, for clustering words belonging to four different files. I vary the value of k, add l2 normalization before cluster, and evaluate the quality of the clustering using B-CUBED precision, recall, and F-score. The results are then visualized through plots. The implementation is developed using **Python**, **NumPy**, and **Matplotlib**.
 
-- [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
-- [K-Medians](https://en.wikipedia.org/wiki/K-medians_clustering). 
+- [K-Means at wiki](https://en.wikipedia.org/wiki/K-means_clustering)
+- [K-Medians at wiki](https://en.wikipedia.org/wiki/K-medians_clustering). 
 
 - The **kmeans.py** can cluster words belonging to four files: *animals*, *countries*, *fruits* and *veggies*.
 - The standalone .py file including:
